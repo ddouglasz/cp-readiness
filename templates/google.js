@@ -1,8 +1,14 @@
-const getSearch =() => {
-let text= search-input.getElementById(serach-imput.getText());
+{/* <script type="text/javascript">
+showConfirmationDialog=()=>{
+var searchInput = document.getElementById('searchInput').value;
+     alert(searchInput.value)
+     };
+     </script> */}
 
-if(text){
-return 
-alert("Hello! I am an alert box!!");
-}
-}
+     <script type="text/javascript">
+    function namet() {
+      var searchInput = document.getElementById("searchInput").value;
+      alert( "input : " + searchInput );
+      window.location.assign("index.html")
+    }
+ </script> 
